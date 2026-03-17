@@ -97,8 +97,8 @@ export default function Home() {
       </section>
       
       {/* Manuscript Section */}
-      <section id="manuscript" className="py-24 md:py-32 px-4 relative z-10">
-        <div className="max-w-4xl mx-auto">
+      <section id="manuscript" className="py-20 md:py-32 px-6 md:px-12 lg:px-20 relative z-10">
+        <div className="max-w-3xl mx-auto">
           <ManuscriptViewer poems={poems} />
         </div>
       </section>

@@ -650,7 +650,7 @@ gave the other birds an idea, gave them a plan. If one could
 fly why couldn't all, they could escape the dogs and cats till
 hell froze over and some. Fly, fly they could fly over, fly over.
 
-Bill Leydon`,
+Bill Leydon `,
     tags: ['poem']
   },
   {
@@ -1159,7 +1159,7 @@ Bow down to him on Sunday
 For Halloween buy him a trumpet
 But him Christmas get him a big drum
 
-Bill Leydon Pardon Bob Dylan`,
+Bill Leydon Pardon Bob Dylan `,
     tags: ['poem']
   },
   {
