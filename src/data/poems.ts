@@ -111,30 +111,22 @@ Bill Leydon 4/90 - 3/21`,
     title: 'Pictures and photos',
     date: '2021-06-10',
     content: `First comes Bob Dylan, then a photo of the Sheppard family assembled
-all 500 of them. Ma is in the bottom, looking pretty as a picture, top
-hats
+all 500 of them. Ma is in the bottom, looking pretty as a picture, top hats
 and bonnets depict the adults. Next comes the Leydon clan. Grandpa Leydon
-with Dad on his knee, with curly locks flowing down his waist, a classic
-one.
+with Dad on his knee, with curly locks flowing down his waist, a classic one.
 
-Here comes my painting, a tender self portrait with no tender smiles. I
-posed
-for this in 3 mirrors , it is like a three headed monster brand. The next
-picture
-is my rendition of my first birdhouse, red on red. brilliant. shingled in
-red and
-held aloft on a red pole. Enough of my painting, now a photo of me, the
-day
+Here comes my painting, a tender self portrait with no tender smiles. I posed
+for this in 3 mirrors , it is like a three headed monster brand. The next picture
+is my rendition of my first birdhouse, red on red. brilliant. shingled in red and
+held aloft on a red pole. Enough of my painting, now a photo of me, the day
 
-Mary got married, we went to Glohster for an outing. Mary must have a
-camera,
+Mary got married, we went to Gloucester for an outing. Mary must have a camera,
 she shot me strolling along the boardwalk, skimming the artwork
 along the boardwalk. I looked like an art expert, with a jaundice eye.
 It is my favorite photo, gives me a grown up look. The rest is yours
 
 Terri, postcards from edge of Charleston, Hoppalong Cassidy a radio that
-works. But reminds me what a great sister I have. Bravo, bravo. I love you
-all.
+works. But reminds me what a great sister I have. Bravo, bravo. I love you all.
 
 — Bill`,
     tags: ['poem']
