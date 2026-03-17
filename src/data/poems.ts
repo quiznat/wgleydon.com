@@ -34,9 +34,7 @@ Dan Rather. Constantly.
 The fire brigade arrives
 in time for Final Jeopardy.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -60,9 +58,7 @@ confess to secret lives, confused twilight
 and dawn. Cocktail dresses ebony block.
 Hearts of heated artists spill into another day.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -107,9 +103,7 @@ and mothers
 worried
 about outerwear
 
-Bill Leydon 4/90 - 3/21
-
-— Bill`,
+Bill Leydon 4/90 - 3/21`,
     tags: ['poem']
   },
   {
@@ -167,9 +161,7 @@ no outdoor activities. A grim outlook, winter's revenge. Frozen
 bodies, frozen cheeks. Children delight in the cold.Build
 snow people in the day. Exult in mittens. Love snow.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -254,9 +246,7 @@ feel your feet carry you on, Your heart blooms, your eyes
 are full of light. you are on your feet. moving surely, to the light.
 Your soul swoons, you are bathed in light. You are free, free.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -281,9 +271,7 @@ with this creature. It came closer, rubbed his horn intu my hair.
 "Beware of the nemies, the fruggies, the short haid beasts, and
 all the ones who preach the dogmas." It slinked away in the mist.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -308,9 +296,7 @@ Your written words, tour pictures What remains is your
 poetry collection. Shakespear, Milton. Frost, Bishop,
 Stevens, Eliot. These will live forever. And a day. Amen.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -335,9 +321,7 @@ Thay shrink from me. They lie like hell, they pat each other on
 the back. I am tired of writing about three legged dogs and cats,
 I cannot go on. There must be a crusade going on somewhere!
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -373,9 +357,7 @@ adhere to the golden rule.
 A story is still a story
 Jack and all his beans
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -400,9 +382,7 @@ every bad dream. As I grew older the dreams would fade. I dreamed better stuff,
 wing hearts and minds, lollipops galore, sunshine days. Then last week it all fell apart,
 They came back together the drowning and the falling dream. I've had it, No sleep for me.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -427,9 +407,7 @@ not jeopardy because we know every thing. We
 try chess, the board is illuminating, all the squares
 are 4 deep. I play to win but always lose lose the king.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -454,9 +432,7 @@ growing the cross, feeding the hungry, warming us for another
 day. When it goes away at night, it leaves the moon to guide us
 through the night. We are blind again till the morning light.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -481,9 +457,7 @@ gave their guidance and their love who nourished my heart and mind.
 They did not know it but they also claimed part of my soul. Like 
 barren soil, they planted the seeds that feel today. Hoora, hooray!
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -503,9 +477,7 @@ dead, a mass grave somewhere, maybe I have become
 invisible, enough so you aren't paying attention. I'm
 warning you if you don't respond to this, I'll cut you dead.
 
-Llib Nodyel
-
-— Bill`,
+Llib Nodyel`,
     tags: ['poem']
   },
   {
@@ -601,9 +573,7 @@ a happy smile. let the bastards not know how bad you feel, how
 close to the edge you are. You cannot control the world, you can
 control your smile, you can, so smile, smile through the rain.
 
-Llib Nodyel
-
-— Bill`,
+Llib Nodyel`,
     tags: ['poem']
   },
   {
@@ -633,9 +603,7 @@ them at MBTA locations, or school fun and seers. I am a man
 of constant sorrow, a genius without portfolio. Alas poor Yorick
 
 
-llib nodyel
-
-— Bill`,
+llib nodyel`,
     tags: ['poem']
   },
   {
@@ -660,9 +628,7 @@ things that shout and hollers. It needs quiet, needs the new
 born baby's mewing cry. Practice, practice practic. You are
 the master of sleep. prove it. Take a deep breath, sleep.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -687,9 +653,7 @@ we must brush aside ignorance. We stand alone, stand for
 the right cause, stand alone, if need be. We are free men and
 women, as a great man once said "The truth will set you free"
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -714,9 +678,7 @@ gave the other birds an idea, gave them a plan. If one could
 fly why couldn't all, they could escape the dogs and cats till
 hell froze over and some. Fly, fly they could fly over, fly over.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -741,9 +703,7 @@ the number one spouse. packed away in a Hallmark container. We
 number each and every one, compare and contrast. Some days
 this seems enough, seems more than enough. Is it though?
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -768,9 +728,7 @@ my Father never brought me back again. My father and I
 had a strange relationship. We always had time for a talk
 about Ted Williams. Never time about my Mother.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -795,9 +753,7 @@ game plan shatter, in order to go along. I get smushed, let
 others have the upper hand, I get swallowed by the bigger
 fish. I know I have no right to complain. I complain more.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -822,9 +778,7 @@ give it up,say the hell with it, not worth the effort. The
 brain shuts down, systems fail, eyes gloss over, the time
 is nigh, time is done, you are alone. Deadly alone, alone. 
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -889,9 +843,7 @@ do your duty, cut into the dry rot, see the bon mots. revel in words,
 do your best, let the language flow, let the words flow in your brain,
 give me your honest appraisal.give me something. Anything.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -916,9 +868,7 @@ Boston Herald, a fast read, big print, comics every day, obits
 you can chew on, small words, every day a new puzzle, and 
 you can get a copy on any corner. What more can you want.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -943,9 +893,7 @@ twisting back and forward, in death spells, in death spirals.
 Why we gather words this way is beyond reach, beyond delay.
 we are caring, we are something death to the author's truth.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -970,9 +918,7 @@ all the time, happens to the best of men and sailors. To blame
 anyone is foolish, it happens in the best of circles, people get
 tired, fall away, learn other habits, get cold, get frozen. Die.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -1047,9 +993,7 @@ of a raindrop, it knows no rules. What we call forecast are
 nothing more than guesses, a shot in the open, a guess of
 the heavens, a roll of the dice. Sometime right, often wrong.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -1076,9 +1020,7 @@ under your bed. That's about it, I think. Some autographs, some
 
 not. All valuable, to you, all reading material. all read, all read.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -1103,9 +1045,7 @@ proves more success. You will stumble, you will fail, onc in
 awhile, so what is a shot, if you care, if you need a hand, go get
 some help. People well gladly help a person striving to excel.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -1130,9 +1070,7 @@ and her husband, Jack, a great man. And of course Fran, the
 best brother we ever have, I love him and so do everyone else.
 That leaves me, Bill, and Maureen, and 50 years of bliss. Amen.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -1157,9 +1095,7 @@ this from their parents a long time ago. I don't know about
 hawks or eagles, never having studied them close up, but
 I assume one bird is the same as the next. Birds forever.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -1184,9 +1120,7 @@ world, hidden from ourselves. All because we did not pay
 attention in class. We hide behind our failures, hide with both
 hands clapping, we hide all the time, no time to redeem us.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -1211,9 +1145,7 @@ water. I recall every friend I had and lost, through time
 and circumstance, no blame, drifting away over time and
 fortune. I miss these friends. But they are gone. Forever.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -1255,9 +1187,7 @@ Bow down to him on Sunday
 For Halloween buy him a trumpet
 But him Christmas get him a big drum
 
-Bill Leydon Pardon Bob Dylan
-
-— Bill`,
+Bill Leydon Pardon Bob Dylan`,
     tags: ['poem']
   },
   {
@@ -1282,9 +1212,7 @@ with a variety of places, with a bunch of situations. We are
 prey to the waiting game, prey to others, we are suckers to
 others. I have no solutions to this. No quick fix. Hang on. Hang.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -1332,9 +1260,7 @@ was no superlative we didn't use, We were fools about
 Ted. These are good memories, keepsakes. Later, much
 later, I visited him as he lay dying. I could offer no solace.
 
-Bill Leydon
-
-— Bill`,
+Bill Leydon`,
     tags: ['poem']
   },
   {
@@ -2084,9 +2010,7 @@ that's settled
 I feel better
 half scowl half smile
 
-Llib Nodyel
-
-— Bill`,
+Llib Nodyel`,
     tags: ['poem']
   },
   {
@@ -2136,9 +2060,7 @@ schoolyard.They played Mary caught a bkack sheep by the toe,
 another game was hid and seek, Mary was first to hide, and she
 took off her clothes and nobody could find Mary naked as a mouse.
 
-llib nodyel
-
-— Bill`,
+llib nodyel`,
     tags: ['poem']
   },
   {
@@ -2163,9 +2085,7 @@ attention, my undivided attention. I am a cloud watcher since birth
 a card carrying cloud watching member of the Secret Carrying
 Society sworn to keep secret all that we see in the sky. All true.
 
-llib
-
-— Bill`,
+llib`,
     tags: ['poem']
   },
   {
@@ -2261,9 +2181,7 @@ there was no clock but I felt tired, my eyes would not focus, I knew
 I would lose badly' I called time and went to the bathroom, where
 peeled out 2 white kings, ready to bail me out. It worked. He gave up.
 
-Llib Nodyel
-
-— Bill`,
+Llib Nodyel`,
     tags: ['poem']
   },
   {
@@ -3121,9 +3039,7 @@ it off as memories, ehe kind everyone has, some reply. I had pulled the
 Rose card from the bottom of my
 deck. It is not a card I cannot get rid of. I do not have time tonight. So
 maybe tomorrow. Adios amigo,
-Love Bill
-
-— Bill`,
+Love Bill`,
     tags: ['poem']
   },
   {
@@ -3203,9 +3119,7 @@ happy to share our lives and love. She taught me that the dark
 no hold on her. or own me. We gave her a new name Ellie Mae
 Leydon. We spoil her every day in every way All hail Ellie Mae.
 
-Bill
-
-— Bill`,
+Bill`,
     tags: ['poem']
   },
   {
