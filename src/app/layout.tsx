@@ -3,7 +3,36 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Bill Leydon | Poems & Memories',
-  description: 'A collection of poems by Bill Leydon (1945-2024), loving husband, father, brother, and friend.',
+  description: 'A collection of poems by Bill Leydon (1945-2024), loving husband, father, grandfather, brother, librarian, and poet.',
+  keywords: ['Bill Leydon', 'poems', 'poetry', 'memorial', 'Dorchester', 'Boston'],
+  authors: [{ name: 'Michael Leydon' }],
+  openGraph: {
+    title: 'Bill Leydon | Poems & Memories',
+    description: 'A collection of poems by Bill Leydon (1945-2024), loving husband, father, grandfather, brother, librarian, and poet.',
+    url: 'https://wgleydon.com',
+    siteName: 'Bill Leydon Memorial',
+    images: [
+      {
+        url: '/og-image.jpg',
+        width: 800,
+        height: 800,
+        alt: 'Bill Leydon',
+      },
+    ],
+    locale: 'en_US',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Bill Leydon | Poems & Memories',
+    description: 'A collection of poems by Bill Leydon (1945-2024), loving husband, father, grandfather, brother, librarian, and poet.',
+    images: ['/og-image.jpg'],
+  },
+  icons: {
+    icon: '/bill-leydon.jpg',
+    shortcut: '/bill-leydon.jpg',
+    apple: '/bill-leydon.jpg',
+  },
 }
 
 export default function RootLayout({
