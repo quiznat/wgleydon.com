@@ -1,6 +1,7 @@
 #!/bin/bash
-# Deploy Bill Leydon Memorial Site
+# Deploy Bill Leydon Memorial Site to Vercel
 # Run this after editing poems in ~/life-goals/poems/bill-leydon/
+# Vercel will auto-build and deploy on git push
 
 set -e
 
@@ -79,25 +80,16 @@ with open(output_file, 'w') as f:
 print(f"Wrote {len(output)} chars to {output_file}")
 PYTHON
 
-echo "Building site..."
-npm run build
+echo ""
+echo "Committing and pushing to GitHub..."
+echo "Vercel will auto-build and deploy."
+echo ""
 
-echo "Committing source..."
 git add src/data/poems.ts
 git commit -m "Update poems: $(date '+%Y-%m-%d %H:%M')" || echo "No changes to commit"
 git push origin main
 
-echo "Deploying to GitHub Pages..."
-DEPLOY_DIR="/tmp/wgleydon-deploy-$$"
-mkdir -p "$DEPLOY_DIR"
-cp -R dist/* "$DEPLOY_DIR/"
-cd "$DEPLOY_DIR"
-git init
-git checkout -b gh-pages
-git add -A
-git commit -m "Deploy: $(date '+%Y-%m-%d %H:%M')"
-git remote add origin https://github.com/quiznat/wgleydon.com.git
-git push -f origin gh-pages
-
 echo ""
-echo "✓ Deployed to https://wgleydon.com"
+echo "✓ Pushed. Vercel is building..."
+echo "Watch at: https://vercel.com/dashboard"
+echo "Live site: https://wgleydon.com"
