@@ -160,28 +160,18 @@ Bill Leydon`,
     id: '2021-10-24-thanksgiving-dream',
     title: 'Thanksgiving Dream',
     date: '2021-10-24',
-    content: `It came early when I sleep, rem sleep. The walls are porous, everything
-commes through,
-fingers of dead men and women. Something my mind, holding me upright,
-scaring me
-out of my wits. I can't escape, cannot move. This is a dream, I'm sure. I
-hope it is not
-real. Next, a turkey beak pierces the wall, three more beaks. This is
-scary, beyond belief.
+    content: `It came early when I sleep, rem sleep. The walls are porous, everything comes through,
+fingers of dead men and women. Something my mind, holding me upright, scaring me
+out of my wits. I can't escape, cannot move. This is a dream, I'm sure. I hope it is not
+real. Next, a turkey beak pierces the wall, three more beaks. This is scary, beyond belief.
 
-Wake up, wake up for Chris's sake. Soon the entire turkeys smamthrough.
-Wild turkeys
-more than one. I cannot count that many. They hunt my pillow and peck it
-through, amid
-the sweat of me. I tell them I'm not having turkey this year. They talk
-turkey talk. They
-eye with their turkey eyes. They confer with their goble, goble.I'm no
-fool, I'm one for
+Wake up, wake up for Chris's sake. Soon the entire turkeys swarm through. Wild turkeys
+more than one. I cannot count that many. They hunt my pillow and peck it through, amid
+the sweat of me. I tell them I'm not having turkey this year. They talk turkey talk. They
+eye with their turkey eyes. They confer with their gobble, gobble. I'm no fool, I'm one for
 
-the gibbet. I put on my track shoes. What a racket these birds make. They
-run ciircles
-around me. I am going to be pecked to death. I wake to thr sound of my
-wife "BREAKFAST"
+the gibbet. I put on my track shoes. What a racket these birds make. They run circles
+around me. I am going to be pecked to death. I wake to the sound of my wife "BREAKFAST"
 
 — Bill`,
     tags: ['poem']
@@ -190,28 +180,18 @@ wife "BREAKFAST"
     id: '2021-10-29-sequence',
     title: 'Sequence',
     date: '2021-10-29',
-    content: `If b always follows a, and 2 follows 1, then who follows Cain and Abel?
-The devil>
-We believe the oddest things, we are taught stories, tall tales, the
-immaculate birth.
-We no more than our fathers and mothers, but we hold these shibboleths,
-hold them
-fiercely and keep our doubts under wraps. we live in a scientific world,
-everything
+    content: `If b always follows a, and 2 follows 1, then who follows Cain and Abel? The devil.
+We believe the oddest things, we are taught stories, tall tales, the immaculate birth.
+We know more than our fathers and mothers, but we hold these shibboleths, hold them
+fiercely and keep our doubts under wraps. We live in a scientific world, everything
 
-must be proven, and proven again and again. But we step inside a mosque,
-synagogue,
-or church we accept the most outlandish notions. why is this? Because we
-have been
-taught by the previous parents and the special doctrinaires. We are caught
-in a gyre
-because we cannot fight the truth. I fight from the first time I had a
-chance. I know others
+must be proven, and proven again, and again. But we step inside a mosque, synagogue,
+or church, we accept the most outlandish notions. Why is this? Because we have been
+taught by the previous parents and the special doctrinaires. We are caught in a gyre
+because we cannot fight the truth. I fight from the first time I had a chance. I know others
 
-we fight against the dark. We have our brains and our hearts. The fairy
-tales
-cannot hold us anymore. We are free, we believe the truth and hold fast.
-Jubilation!
+who fight against the dark. We have our brains and our hearts. The fairy tales
+cannot hold us anymore. We are free, we believe the truth and hold fast. Jubilation!
 
 — Bill`,
     tags: ['poem']
@@ -221,8 +201,8 @@ Jubilation!
     title: 'Dark and Light',
     date: '2022-02-27',
     content: `If on occasion you find yourself in the blackest dark, struggle 
-to the gleam of the splinter of light. If perchance you fall. you
-must crawl, sprawl on you knees, on your belly, Crawl , crawl
+to the gleam of the splinter of light. If perchance you fall. You
+must crawl, sprawl on you knees, on your belly. Crawl , crawl
 for your life, let your eyes guide you. You are blind, you can't
 
 see, cannot see your hands in front of you. But the light shines
@@ -247,20 +227,20 @@ Bill Leydon`,
     date: '2022-02-28',
     content: `I woke up, rubbed my eyes more than once. I spied a Unicorn at
 the end of my bed. I had not called for such a creature, had not
-put an order in att Amazon. Where it came from was a mystery.
+put an order in at Amazon. Where it came from was a mystery.
 I addressed it in fairy language. It talked to me in perfect English.
 
-"What are you doing at the end of my bed?" I asked." I am on
-a quest and I need your help." he smiled his Unidorn smile, Stunned
+"What are you doing at the end of my bed?" I asked. "I am on
+a quest and I need your help." he smiled his Unicorn smile. Stunned
 I was amazed. I blinked, and stuttered. "Me, me! I am an old man,
 weak, and desolate. I have no powers, no magic wands." It wrinkles
 
-up his horn and gave a laugh. " You have the heart of a lion, the cunning
+up his horn and gave a laugh. "You have the heart of a lion, the cunning
 of a bird in flight, the brain of Einstein. I need these.
-More I can supply.:" I settled back in my bed, ready to go to war
-with this creature. It came closer, rubbed his horn intu my hair.
+More I can supply." I settled back in my bed, ready to go to war
+with this creature. It came closer, rubbed his horn into my hair.
 
-"Beware of the nemies, the fruggies, the short haid beasts, and
+"Beware of the nemesis, the druggies, the short haired beasts, and
 all the ones who preach the dogmas." It slinked away in the mist.
 
 Bill Leydon`,
@@ -271,21 +251,21 @@ Bill Leydon`,
     title: 'Poems Never Die',
     date: '2022-03-02',
     content: `A lot of things die. Dogs, cats, insects, people. The funerals clog
-the streets every day. Good people, bad, mediole them, whatever,
+the streets every day. Good people, bad, mediocre, whatever,
 they all die. They succumb to bodily ailments: cancer, heart
-atatacks, gout, brain seizures, liver problems. Too many to
+attacks, gout, brain seizures, liver problems. Too many to
 
 mention here, We all die. Eat the dirt sooner or later. On a clear
 day we figure this won't happen any time soon. It happens 
 when we least expect it. A car crash, a hot dog goes down
-the wrong way, you gets laid off after a promotion. It willl
+the wrong way, you get laid off after a promotion. It will
 
-kill you when you least expect it, Don;t worry. It's part of
+kill you when you least expect it. Don't worry. It's part of
 life. But you must remember what remains. Your spouse,
 your children, your friends, your books and your memories.
-Your written words, tour pictures What remains is your
+Your written words, tour pictures. What remains is your
 
-poetry collection. Shakespear, Milton. Frost, Bishop,
+poetry collection. Shakespeare, Milton. Frost, Bishop,
 Stevens, Eliot. These will live forever. And a day. Amen.
 
 Bill Leydon`,
@@ -296,19 +276,19 @@ Bill Leydon`,
     title: 'Last Poem',
     date: '2022-03-04',
     content: `This is my last poem. Ever. I have said this before. Many times.
-I recall in 1986, '88, '93, '03, and su furth. I mean it now and for-
+I recall in 1986, '88, '93, '03, and so forth. I mean it now and for-
 ever. I am fed up to date. I am deep into despair, I am great, and
 am the supreme poet of my time. No one can give me an ounce
 
 of credit. I have won prizes, more than I can number here
-today. For instance, the Piggy Wiggy Prize for sooey salem\\
-oinkin sutra sentences. Just one of many honors. But it's
+today. For instance, the Piggy Wiggy Prize for Sooey Salem
+Oinkin Sutra Sentences. Just one of many honors. But it's
 just the honors. It is what I have to go through to earn them.
 
-I it is the endless hours spent sucking up bad poets who try to
-copy my poems. They creep in at all hours, hoping for a glimpse of style,
-my characters, my images. my pagination. my everything.
-Thay shrink from me. They lie like hell, they pat each other on
+It is the endless hours spent sucking up bad poets who try to
+copy my poems. They creep in at all hours, hoping for a glimpse
+of style, my characters, my images, my pagination, my everything.
+They shrink from me. They lie like hell, they pat each other on
 
 the back. I am tired of writing about three legged dogs and cats,
 I cannot go on. There must be a crusade going on somewhere!
