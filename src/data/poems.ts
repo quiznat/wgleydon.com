@@ -441,7 +441,7 @@ Bill Leydon`,
     content: `I woke with a startle the other night, the poems I sent to you 
 guys had no response. Nothing. I thought my machine was
 defective, thought my poems had lost my touch. I was topsy-
-turvy, in a twirl. had I lost my mind. Had you, lost you, lost your
+turvy, in a twirl. Had I lost my mind. Had you, lost you, lost your
 
 collective minds. Either or, the same result, no response. We are
 in a quandary, I cannot keep throwing good stuff against your
@@ -511,21 +511,21 @@ life. By calling them up I hang about myself. I cry non stop.
     content: `We fight ourselves, day after day, we never give in. We fight each
 other, we enjoy the combat, we enjoy the grudge, we see the
 other as a foe. Language escapes us. The right word eludes us,
-we flounder, we rail in our ignorance, we are lost. When are clear
+we flounder, we rail in our ignorance, we are lost. When we are clear
 we are dumb, listless, at sea, drowning in hesitation, two roads
 
-too many. we know the way, know what we want, but we cannot
+too many. We know the way, know what we want, but we cannot
 find the words, or the desire. We are secure in our place, in our
 face, in our place, we cannot move our pawn into the next square 
-We are trapped by our wavering by our  debating selves. 
+We are trapped by our wavering, by our debating selves. 
 
-Language cannot save us but it can help ,smooth the tough spots
+Language cannot save us, but it can help smooth the tough spots
 in repertoire, language can save the desires to hurt or maim. We
 fight ourselves, we fight one another. We now the words, we know 
 the tune, we just have to play them together.
 
 Say them together, say them together, as one. We are barren without
-language, but we have to be careful how we use it, so it good.
+language, but we have to be careful how we use it, so it is good.
 
 — Bill`,
     tags: ['poem']
@@ -534,15 +534,15 @@ language, but we have to be careful how we use it, so it good.
     id: '2022-04-13-smile',
     title: 'Smile',
     date: '2022-04-13',
-    content: `When you are down and badly used, take a smile from my bag, know it will
-not solve all your problems, but it will get you through today and
-tomorrow. Get rid of that scowl, dump the bad enemies in the garbage where
-they belong. Worry the real things,
+    content: `When you are down and badly used, take a smile from my bag, 
+know it will not solve all your problems, but it will get you through 
+today and tomorrow. Get rid of that scowl, dump the bad enemies 
+in the garbage where they belong. Worry the real things,
 
 like your job is going down the drain, your girlfriend is cheating
 on you with every guy in the office. That is what gets you down,
 gets you upset, make you morose and edgy. I say, put up 
-a happy smile. let the bastards not know how bad you feel, how
+a happy smile. Let the bastards not know how bad you feel, how
 
 close to the edge you are. You cannot control the world, you can
 control your smile, you can, so smile, smile through the rain.
@@ -560,11 +560,11 @@ I have the afternoon to myself. To create a masterpiece, or two. I
 
 feel expansive, feel my painting side bursting through. Maybe 
 
-a Dagas, maybe a Rembrandt. I like print above all else, say Larkin
+a Degas, maybe a Rembrandt. I like print above all else, say Larkin
 
 say Frost, say Shakespeare. I have published 4 books of poetry, 
 
-three open to the world, one only to my family. I go for the 5 
+three open to the world, one only to my family. I go for the 5th 
 
 currently, I run down, not knowing if I can pull it off one more 
 
@@ -576,31 +576,30 @@ them at MBTA locations, or school fun and seers. I am a man
 
 of constant sorrow, a genius without portfolio. Alas poor Yorick
 
-
-llib nodyel`,
+Llib Nodyel`,
     tags: ['poem']
   },
   {
     id: '2022-05-04-nap-upon-naps',
     title: 'Nap Upon Naps',
     date: '2022-05-04',
-    content: `I can sleep anywhere, on my back, on my side, in my bed, standing on my
-head. It is easy when you get the knack, just
-roll your eyes back in your head, relax, picture an desert
+    content: `I can sleep anywhere, on my back, on my side, in my bed, 
+standing on my head. It is easy when you get the knack, just
+roll your eyes back in your head, relax, picture a desert
 island, let go, let it all go. You are almost there, almost asleep,
 
 nap time, blessed nap time. Do this every day, every afternoon,
 keep the habit going, schedule the day around it, don't miss
-a say, Let the days roll by, they aren't important, your nap is.
+a day, Let the days roll by, they aren't important, your nap is.
 all consuming, your mental being is. Find a quiet spot, far
 
 from the noise of children playing in the street, far removed
 from jet planes flying overhead, from thee nagging spouse,
 far from the boss with demands. The noise of the tv, the radio,
-things that shout and hollers. It needs quiet, needs the new
+things that shout and holler. It needs quiet, needs the new
 
-born baby's mewing cry. Practice, practice practic. You are
-the master of sleep. prove it. Take a deep breath, sleep.
+born baby's mewing cry. Practice, practice, practice. You are
+the master of sleep. Prove it. Take a deep breath, sleep.
 
 Bill Leydon`,
     tags: ['poem']
@@ -611,8 +610,8 @@ Bill Leydon`,
     date: '2022-05-05',
     content: `Forget that seven day scam, that's strictly for the rubes, pedals
 for the farmers and the religion fakers. We know different, know
-something else, know it took thousands of years to perfect a single cloud,
-let alone the blue sky. I can confirm it was the
+something else, know it took thousands of years to perfect a single 
+cloud, let alone the blue sky. I can confirm it was the
 
 Milky way, out of control, spinning, from its axis, that bumped
 into the sun, and then the moon, chipping large pieces from
@@ -637,14 +636,14 @@ Bill Leydon`,
     content: `Blame it on the dogs who wouldn't leave the sparrows alone,
 barking days and nights, nipping at their tails. Soon they got
 wise, climbed the highest tree, safe from dogs and cats. They
-liked the view, liked,the peace and quiet, not being chased
+liked the view, liked the peace and quiet, not being chased
 
-day and night. They want up, and up, to the very top of the tree,
+day and night. They went up, and up, to the very top of the tree,
 so far from the ground, up to the clouds. The air was cool, cooler
-than the ground, a nice breeze, sunshine, every day. They hafound a
-home, found bird sanctuary. How to capture this
+than the ground, a nice breeze, sunshine, every day. They had 
+found a home, found bird sanctuary. How to capture this
 
- for ever more. Then a sparrow fell out of the tree, fell halfway
+forevermore. Then a sparrow fell out of the tree, fell halfway
 down to the ground, that sparrow kept his wings flat, rose
 with the air, fluttered in mid flight, scared, but full of courage,
 gave the other birds an idea, gave them a plan. If one could
@@ -659,12 +658,12 @@ Bill Leydon `,
     id: '2022-05-10-in-the-midst-of-life',
     title: 'In the midst of life',
     date: '2022-05-10',
-    content: `There is not room to play, not room to die, not room to live, not
+    content: `There is no room to play, no room to die, no room to live, not
 enough hope, not enough room to pray. We give what we can,
 hope it is enough, enough to get by. We do not know the time
 of our death, bats fly beside us, the sense of our going. To
 
-give us a warning, a doom day of comfort. We were letter 
+give us a warning, a doomsday of comfort. We were letter 
 perfect in school, in work, in marriage, in the giving to the
 poor. It means nothing on the big ledger in the sky. We are
 happy with ourselves, good jobs all around. Something
@@ -672,9 +671,9 @@ happy with ourselves, good jobs all around. Something
 is missing, something is awry, one thing missing. What is
 it? The love of self, just this and nothing more. We race
 through life, picking up degrees, better jobs, sweet kids.
-the number one spouse. packed away in a Hallmark container. We
+the number one spouse. Packed away in a Hallmark container. 
 
-number each and every one, compare and contrast. Some days
+We number each and every one, compare and contrast. Some days
 this seems enough, seems more than enough. Is it though?
 
 Bill Leydon`,
@@ -684,7 +683,7 @@ Bill Leydon`,
     id: '2022-05-11-for-the-good-times',
     title: 'For the good times',
     date: '2022-05-11',
-    content: `I remember stuff, as time passes I remember less. Some
+    content: `I remember stuff, as time passes, I remember less. Some
 things stick in my brain like a blood sucker, enough like blood
 in an open wound. Like the time around I'm two years old, with
 my Mother, and her two sisters, Ellie and Margaret, in some
@@ -735,19 +734,19 @@ Bill Leydon`,
     title: 'To be or not to be',
     date: '2022-05-13',
     content: `I have been around the block, have seen some things, some
-things would make your skin peel, make you shiver. You make
+things would make your skin peel, make you shiver. They make
 your head spin. I am talking about suicide. Or attempts, weak
 people saying goodbye to the rest of us. You mention sad
 
 beyond belief, sad beyond sad, on the edge of sad. We know
 some like this, some poor souls, bumping into walls, bumping
 into themselves, have glassy eyes, nowhere to go, a mess
-of a person. Some ger help. a lot don't, they go down
+of a person. Some get help. a lot don't, they go down
 
 the drain of perpetual care. They are lost to their families,
 their loved ones. they find themselves in a hell on earth,
-trying to unravel a fife gone sour. Some few give a shout,
-give it up,say the hell with it, not worth the effort. The
+trying to unravel a life gone sour. Some few give a shout,
+give it up, say the hell with it, not worth the effort. The
 
 brain shuts down, systems fail, eyes gloss over, the time
 is nigh, time is done, you are alone. Deadly alone, alone. 
@@ -767,7 +766,7 @@ There are moments when the setting sun casts shadows
 on empty plaster walls, turning the room
 into night
 
-Qh, when you sit on the step and the ruffed grouse
+Oh, when you sit on the step and the ruffed grouse
 who has been
 hanging around hops up on the
 step next to you
@@ -778,44 +777,43 @@ the sound of bees
 and you are looking at the bright red bees laden
 and the dragonfly there
 
-You moment when you say "what are you?" and it floats
+The moment when you say "what are you?" and it floats
 upward and lands on your hand
 and you see all there is to see
 
 Or the moment when the moon
 rises behind the trees and the
- disappointment you've carried
+disappointment you've carried
 all day lets go
 
 The moment you know that melancholy
-heart well quiet once again
+heart will quiet once again
 
-Jane Ploughman my niece be kind Bill
-
-— Bill`,
+Jane Ploughman, my niece, be kind.
+- Bill`,
     tags: ['poem']
   },
   {
     id: '2022-05-17-hold-on',
     title: 'Hold On',
     date: '2022-05-17',
-    content: `The rule ls I provide a poem and you respond. Simple. You are part
-of the art. The poet is blind without you, singing in the dark. I. am
+    content: `The rule is I provide a poem and you respond. Simple. You are part
+of the art. The poet is blind without you, singing in the dark. I am
 
 blind without your input. I am like my blind dog, Ellie Mae, who is
-constantly bumping into walls to find her way to her food. It work
+constantly bumping into walls to find her way to her food. It works
 
 for her but is a rotten way to make poetry. So I need more
 response, more critique from you guys. If I am to build a house
 
-on solid ground, I need strait boards and nails to build with. need
+on solid ground, I need straight boards and nails to build with. I need
 a plan, a place with dry ground. I am not asking you to write my
 
 poems for me, I am simply asking to look at the structure I build. Go
-do your duty, cut into the dry rot, see the bon mots. revel in words,
+do your duty, cut into the dry rot, see the bon mots. Revel in words,
 
 do your best, let the language flow, let the words flow in your brain,
-give me your honest appraisal.give me something. Anything.
+give me your honest appraisal. Give me something. Anything.
 
 Bill Leydon`,
     tags: ['poem']
@@ -825,12 +823,12 @@ Bill Leydon`,
     title: 'Beggars Can\'t Be Choosers',
     date: '2022-05-19',
     content: `If the same old story creeps into play again. If you cannot begin
-the same old story, let it go, let your imagination desire, for the 
-day, or weekend. Where is only so much one can ensure, so
+a new story, let it go, let your imagination desire, for the 
+day, or weekend. There is only so much one can ensure, so
 much to do, so much the brain can stomach, so much one
 
-will abide. Some stories will last forever, like MOBY DICK or
-PRiDE AND PREjUDiCE. stuff like that, soft stuff is hardly
+will abide. Some stories will last forever, like Moby Dick or
+Pride or Prejudice. Stuff like that, soft stuff, is hardly
 in the same ballpark and should be avoided. Try comic books
 around the block, easy on the eyes, easy on the brain. The best
 
@@ -846,26 +844,26 @@ Bill Leydon`,
     tags: ['poem']
   },
   {
-    id: '2022-05-20-dever-never',
-    title: 'Dever Never',
+    id: '2022-05-20-never-never',
+    title: 'Never Never',
     date: '2022-05-20',
     content: `Watch out there is a plague of seeing nothing coming your way,
-it looks normal but it catches you by your sight, it is downing by
+it looks normal but it catches you by your sight, it is drowning by
 sight. Clear, then nothing, then you are paralyzed, you cannot do
 anything. You are seeing words without meaning, without know-
 
 ing what they mean. A maze within a maze, trapped once again,
-by bad words,or sweet language, flying above and beyond
+by bad words, or sweet language, flying above and beyond
 you, another poetry escape, you sit stunned by such words.
 More words pour out, more and more, more tumble by your
 
 sight, you are troubled by what they mean, not knowing what they
-mean, what you cannot gather anything more. Words piled on
+mean, that you cannot gather anything more. Words piled on
 words, piled on black and white words, words twisting, on words
 twisting back and forward, in death spells, in death spirals.
 
 Why we gather words this way is beyond reach, beyond delay.
-we are caring, we are something death to the author's truth.
+We are caring, we are something like death to the author's truth.
 
 Bill Leydon`,
     tags: ['poem']
@@ -875,17 +873,17 @@ Bill Leydon`,
     title: 'sadly, So Sadly',
     date: '2022-05-20',
     content: `I row down the stream, heading toward the nearest shore, rowing,
-rowing by myself, alone with no companion, none to sailors
-to share the voltage, none to share the adventure. I am alone
-all alone, on this voyage, not one solitary person. A lone by
+rowing by myself, alone with no companion, no one to sail with
+to share the voyage, no one to share the adventure. I am alone
+all alone, on this voyage, not one solitary person. Alone by
 
-myself, to face the rigors of steerage and wicked waves, none
-venture, none cares for me and my voyage. I'd not blame then,
-they are cowards, do not fine men and women, soft on their
-beds of neat beds. When young they dared with the dest, sure
+myself, to face the rigors of steerage and wicked waves, no one
+ventures, no one cares for me and my voyage. I'd not blame them,
+they are cowards, not fine men and women, soft on their
+neat beds. When young they dared with the best, sure
 
-of the craft they were sailing. No they feel the breeze too much,
-curl the sails, drop the anchor, ready to land, ready the small
+of the craft they were sailing. Now they feel the breeze too much,
+furl the sails, drop the anchor, ready to land, ready the small
 boats, ready the land for capture. It happens to men and sailors
 all the time, happens to the best of men and sailors. To blame
 
@@ -899,23 +897,23 @@ Bill Leydon`,
     id: '2022-05-22-at---rest',
     title: 'At Rest',
     date: '2022-05-22',
-    content: `Now is not the time for combat, not the time for down silly words,
-not for time for brake brakes or getting faster. Time to slow down
+    content: `Now is not the time for combat, not the time for down shifting words,
+not for time for brake checks or getting faster. Time to slow down
 and see the road, see what's ahead, see the curves, the hills,
-apply the brakes, throttle down. speed up, cruise along. Done
+apply the brakes, throttle down. Speed up, cruise along. Done
 
-whats right, done the thing, done the classy, chassy thing.
+what's right, done the thing, done the classy, classy thing.
 You do not need to go a hundred miles an hour, or less
 on the highway. No destination is worth it. No time can
 be shaved, at be saved at expense of a possible crash. We
 
-live in a time in a speed up world, faster and faster, we need
+live in a time in a sped up world, faster and faster, we need
 to go places double time, time contracts, time is the enemy.
 our heads spin. We need a time out, a time to turn our heads
 to the clouds, take a breath, see the horizon, look on our
 
-families, count our blessings, do the sums we are alive. Every
-day. every way. We are alive, a mantra can't be beat 
+families, count our blessings, do the sums, we are alive. Every
+day. Every way. We are alive, a mantra can't be beat.
 
 — Bill`,
     tags: ['poem']
