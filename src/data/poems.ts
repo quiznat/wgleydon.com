@@ -202,12 +202,12 @@ cannot hold us anymore. We are free, we believe the truth and hold fast. Jubilat
     date: '2022-02-27',
     content: `If on occasion you find yourself in the blackest dark, struggle 
 to the gleam of the splinter of light. If perchance you fall. You
-must crawl, sprawl on you knees, on your belly. Crawl , crawl
+must crawl, sprawl on you knees, on your belly. Crawl, crawl
 for your life, let your eyes guide you. You are blind, you can't
 
 see, cannot see your hands in front of you. But the light shines
 some place ahead, dim, dimmer of a darkly light, follow this
-forever. Trust your eyes, trust your guts. You will survive,
+forever. Trust your eyes, trust your guts. You will survive,yes please
 and you want to quit. you are afraid, shaking with fear. You
 
 see no way forward, no way back. It freezes your resolve.
@@ -361,7 +361,7 @@ Bill Leydon`,
     id: '2022-03-21-alive',
     title: 'Alive',
     date: '2022-03-21',
-    content: `I pretend some time I am dead just to see what it's like. To look
+    content: `I pretend some times I am dead just to see what it's like. To look
 back at the rest of you. I think I am better than some, worse
 than others, I cannot decide. I miss some things the sunrise,
 the sunsets, the kids playing in the street, my son, my wife,
@@ -377,7 +377,7 @@ meditate our sins. In the evening we play games,
 not jeopardy because we know every thing. We
 
 try chess, the board is illuminating, all the squares
-are 4 deep. I play to win but always lose lose the king.
+are 4 deep. I play to win, but always lose, lose the king.
 
 Bill Leydon`,
     tags: ['poem']
@@ -388,16 +388,16 @@ Bill Leydon`,
     date: '2022-03-23',
     content: `It is black now, I am blind. The black mixes with the merging
 sun to create a grey patina. The first light is here, illuminates
-what was dense before. The sun follows soon after, s whole new
+what was dense before. The sun follows soon after, a whole new
 ball game. Now the clouds part open, down, to the ground. Sun
 
 dominates everything, lifts the sad up, the grass jumps for joy.
 the people stop and pray for a moment. The sunshine makes
-the day go better, smoother, bearable. We do credit the sun
+the day go better, smoother, bearable. We don't credit the sun
 enough, we shrug ourselves, wait for miracles to pull us into
 
 another time zone. The sun has our backs all the time, all day
-long. into the night, every day through. When the clouds gang
+long. Into the night, every day through. When the clouds gang
 up and rain ensues, the sun is still there, warming the planet,
 growing the cross, feeding the hungry, warming us for another
 
@@ -408,13 +408,15 @@ Bill Leydon`,
     tags: ['poem']
   },
   {
-    id: '2022-03-24-i-felt-my-soul-rising',
+    id: '2022-03-24-rising',
     title: 'I felt my soul Rising',
     date: '2022-03-24',
-    content: `today while making breakfast for me and the blind dog, Ellie Mae. You
+    content: `I felt my soul Rising
+
+today while making breakfast for me and the blind dog, Ellie Mae. You
 have to be careful who you say this to, I've been locked up for less. But
-I am sure it is no fluke or imy nagination, it is real and a long time
-coming. In my life I have has great teachers and friends, both at
+I am sure it is no fluke of my imagination, it is real and a long time
+coming. In my life I have had great teachers and friends, both at the
 
 same time. My mother, Rose Leydon, who taught me love and strength.
 My dad, John Leydon, who taught me saving hope and sometimes
@@ -3295,6 +3297,6 @@ I have the same courage as my friends did have. I am alone, alone,
 but never lonely. I am part of the whole, on man among many more.
 
 — Bill`,
-    tags: ['poem']
+    tags: ['poem', 'aging', 'reflection']
   }
 ]
