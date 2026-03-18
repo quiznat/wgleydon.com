@@ -976,21 +976,21 @@ Bill Leydon`,
 
 Not Cicero the pool hall impresario, the ancient one. we can
 
-all agree with this statement, can numerate our books easily,
+all agree with this statement, can enumerate our books easily,
 
 roll them off our tongues. Go ahead, speak clearly, speak so
 
 the back benches will hear. Start your favorites, then non-fiction
 
-well do, let her rip, last but not least the fiction with the dog eared
+will do, let her rip, last but not least the fiction with the dog eared
 
-pages. Do not forget the steamey photo books with the scanty
+pages. Do not forget the steamy photo books with the scantily
 
-clad females. That's about it. O, i forgot the kids books you hide
+clad females. That's about it. Oh, i forgot the kids books you hide
 
 under your bed. That's about it, I think. Some autographs, some
 
-not. All valuable, to you, all reading material. all read, all read.
+not. All valuable, to you, all reading material. All read, all read.
 
 Bill Leydon`,
     tags: ['poem']
@@ -999,22 +999,22 @@ Bill Leydon`,
     id: '2022-05-29-now',
     title: 'Now',
     date: '2022-05-29',
-    content: `Ain't the time for upset stomachs, now is the time to suck it ups,
-you know wnat you have to do, and do it. Give me a break, and
+    content: `Ain't the time for upset stomach, now is the time to suck it up,
+you know what you have to do, and do it. Give me a break, and
 just do it. What you have temporizing forever, just get it on, let 
-the air out of the tites, drive on flats, get it done. You will feel
+the air out of the tires, drive on flats, get it done. You will feel
 
-better, if you will be bumpy for a moment, Stop procrastinating,
-do the job at hand, learn what needs to be done and do it, You
+better, it will be bumpy for a moment. Stop procrastinating,
+do the job at hand, learn what needs to be done and do it. You
 will feel better about yourself, and the world around you. Do not
 try to fix the atomic race, try something easy, do the wash out
 
-the dreyer, fold them eastly, get the squeak out of the front door,
+the dryer, fold them easily, get the squeak out of the front door,
 simple, simple. Build up to atomic bombs, Let your good stuff
 be your guide, build on success, nothing like a good outcome
-proves more success. You will stumble, you will fail, onc in
+proves more success. You will stumble, you will fail, once in
 
-awhile, so what is a shot, if you care, if you need a hand, go get
+awhile, so what it's a shot, if you care, if you need a hand, go get
 some help. People well gladly help a person striving to excel.
 
 Bill Leydon`,
@@ -1039,7 +1039,7 @@ and night. He married after Ma died, Mary. I mean to mention
 Bob and his wife, Carol. And Ed and his wife Mary. And Terry
 and her husband, Jack, a great man. And of course Fran, the
 
-best brother we ever have, I love him and so do everyone else.
+best brother we ever have, I love him and so does everyone else.
 That leaves me, Bill, and Maureen, and 50 years of bliss. Amen.
 
 Bill Leydon`,
@@ -1054,9 +1054,9 @@ of the summer, through rain and snow. I like when they flock,
 when they know when to eat, when to stay away. They are smart,
 they know each other, they have little brains, but what they have
 
-they know what to do. I watch birds carefully, tell what they do,
-birds communicate on to the others, their brains add up, more
-brains all the same. Birds fly fast through the sky, but slow the
+they know what to do. I watch birds carefully, can tell what they do,
+birds communicate to one another, their brains add up, more
+brains all the same. Birds fly fast through the sky, but slow their
 motion before they land. How they do this, birds stretch wings
 
 obliquely to slow the motion down. They know when to slow
@@ -1074,18 +1074,18 @@ Bill Leydon`,
     id: '2022-06-02-a-to-z',
     title: 'A to z',
     date: '2022-06-02',
-    content: `Let say the alphabet a place to start, giving us all the rest,
+    content: `Let's say the alphabet a place to start, giving us all the rest,
 remember our p's and q's. Recite what you don't
 know exactly, give or take the A B C's. You know Hemingway
 by heart, Faulkner is easy, the 13th century poets slide off
 
-your tongue, Joan Dedion is a snap, so too is John Le'Carre,
+your tongue, Joan Didion is a snap, so too is John le Carré,
 so how you can't spell your own name. You missed that class,
 along with the entire spelling term. Don't feel bad, you
-got a bunch of students who can't they last names. We hide
+got a bunch of students who can't spell their last names. We hide
 
 what we don't know behind our id's, our credit cards, our slips
-of paper with our names written on it. We fudge the truth, we
+of paper with our names written on them. We fudge the truth, we
 redo our names, we are escaping, we are hidden from the
 world, hidden from ourselves. All because we did not pay
 
@@ -1099,17 +1099,17 @@ Bill Leydon`,
     id: '2022-06-03-i-and-we-remember',
     title: 'I and We Remember',
     date: '2022-06-03',
-    content: `Soon we recall most everything, the goof, the bad and the ugly.
-I need you to recall some stuff I don't want or can't now I will
-not come to the frow. I now give myself pardon that will never
+    content: `Soon we recall most everything, the good, the bad and the ugly.
+I need you to recall some stuff I don't want or can't now, it will
+not come to the fore. I now give myself pardon that will never
 come again. Some stuff I have submerged deep in my brain,
 
 junk that is ugly or painful, every man has bad episodes in
 life, every pain, every sorrow. Put these along with the sunny
-side of life, stoke up the numbers, do the math, shade the tale,
-weth all fractions of sad numbers. We know the bad stuff, give
+side of life, stack up the numbers, do the math, shade the tale,
+with all fractions of sad numbers. We know the bad stuff, give
 
-the pain wide, in tell for so long. We stay with pain and sad,
+the pain weight, in tell for so long. We stay with pain and sad,
 give over the happy times, never see the good times, enough
 part of ourselves. Good times slip by us, like ducks in high
 water. I recall every friend I had and lost, through time
@@ -1121,58 +1121,16 @@ Bill Leydon`,
     tags: ['poem']
   },
   {
-    id: '2022-06-07-he-belongs-to-me',
-    title: 'He Belongs To Me',
-    date: '2022-06-07',
-    content: `He's got everything he needs
-He's an artist, he don't look back
-He 's got everything he needs
-He's an artist , he don't look back
-He can take the dark out of the nighttime
-and paint the daytime black
-
-You will start out standing
-Proud to steal him anything he sees
-You will start out standing
-Proud to steal him anything he sees
-but you will wind up peeking a keyhole
- Down up your knees
-
-He never stumbles
-He's got no place to fall
-He never stumbled
-He's got no place to fall
-He's nobody's child
-the law can't touch him at all
-
-He wears an Egyptian ring
-It sparkles before he speaks
-He wears an Egyptian ring
-It sparkles before he speaks
-He's a hypnotist collector
-You are a walking antique
-
-Bow down to him on Sunday
-Salute him when his birthday comes
-Bow down to him on Sunday
- Salute him when his birthday 
-For Halloween buy him a trumpet
-But him Christmas get him a big drum
-
-Bill Leydon Pardon Bob Dylan `,
-    tags: ['poem']
-  },
-  {
     id: '2022-06-10-waiting',
     title: 'Waiting',
     date: '2022-06-10',
     content: `Hardest thing you can do, hard, harder, hardest even to think 
 about. We live in a lickety split world, fast, faster than fast. We
 decide stuff quicker and quicker, we have no time for time.
-no time for contemplation, no quiet time, we are doomed, to
+No time for contemplation, no quiet time, we are doomed, to
 
-spend hours eons in pondering the magazines in doctors
-offices, lawyers, dentists, every office. Last place you want
+spend hours, eons in pondering the magazines in doctor's
+offices, lawyer's, dentist's, every office. Last place you want
 to be in a real estate office waiting for a sharp chap in a zoot
 suit trying to sell you swamp land. This happens all the time,
 
@@ -1188,46 +1146,23 @@ Bill Leydon`,
     tags: ['poem']
   },
   {
-    id: '2022-06-12-i-love-those-who-can-smile-in-trouble',
-    title: 'I love those who can smile in trouble.',
-    date: '2022-06-12',
-    content: `I love those who can smile in trouble.
-
-Who can gather strength from distress
-
-and grow brave by reflection.
-
-'tis the business of little minds to shrink,
-
-but they whose heart is firm.
-
-and whose conscience approves their conduct,
-
-will pursue their principles unto death.
-
-Leonardo Da Vinci
-
-— Bill`,
-    tags: ['poem']
-  },
-  {
     id: '2022-06-26-my-dad-and-i',
     title: 'My dad and I',
     date: '2022-06-26',
     content: `are headed into town to see Shane, a motion picture with Jack Palance, the
-devil himself. Why Shane, it sounded alright to 
+devil himself. Why Shane? It sounded alright to 
 my dad. He scared me to my death, gave me nightmares to
 this day. We had ice cream floats after the movie. I felt like
 
 king of the land, of the world. He taught me card games, 
 cribbage, gin rummy, and hearts. He cheated at all these, using
 a background mirror as his assistant. We forgave him, gave
-him leeway, he had to win every time. Later dad and i talk
+him leeway, he had to win every time. Later dad and I talk
 
-baseball. Ted Williams was are only subject, the splendid
+baseball. Ted Williams was our only subject, the splendid
 splinter, home run king. We would clear the nightly dishes
 aside, talk the Ted into heaven, go root toot woot. There
-was no superlative we didn't use, We were fools about
+was no superlative we didn't use. We were fools about
 
 Ted. These are good memories, keepsakes. Later, much
 later, I visited him as he lay dying. I could offer no solace.
@@ -1242,17 +1177,17 @@ Bill Leydon`,
     content: `Set the clocks back several days, give this mourner time for a 
 goodbye. They went beyond our reach too quickly. In the night,
 in sunshine, in dreary fog and rain. They could not stay, could
-not tarry a day or two. they were on a mission, nothing would
+not dally a day or two. they were on a mission, nothing would 
 
-them to stay. They join pleasant company, with angels and
-saints, with heroes , and good me and women. There will
+allow them to stay. They join pleasant company, with angels 
+and saints, with heroes, and good men and women. There will
 be toasts and banquets, laughs and shouts, A real party of
 all those who went before. There will be tears, lots of them
 
 as they remember the sweet times, the human times they
 left behind. They guess this is the best that they could go,
-accept the final outcome, laugh on cue, smile, smile, smile/
-You are free from petty work, let the bills pile up to roof
+accept the final outcome, laugh on cue, smile, smile, smile.
+You are free from petty work, let the bills pile up to the roof
 
 no sweat. You play volleyball at eight, soccer at ten, finger
 painting at 2. Keep to the schedule. Smile, smile, smile.
@@ -1290,9 +1225,9 @@ words. Forget what I said. You could take a nap, instead.
     title: 'When Disaster Strikes',
     date: '2022-07-05',
     content: `Don't run for the exits, keep calm, go into your shell, duck and weave,
-like a porpoise in high water. This too will pass or it won't, you will good
-in the newsreels. You are ahead of the game, you wear bullet proof
-underwear, combined with argyle socks. Sometime it is all too much,
+like a porpoise in high water. This too will pass or it won't, you will look
+good in the newsreels. You are ahead of the game, you wear bullet proof
+underwear, combined with argyle socks. Sometimes it is all too much,
 
 where to go shopping, where to have a cup of coffee, where to go to
 school with the kids. Careful with your choices, be aware of dangers,
@@ -1300,12 +1235,12 @@ avoid parades of any sort, check the angles, where some nut may be
 lurking. Count the faces in the crowd, if there is an odd number, get
 
 out of there pronto, buy the kids an ice cream cone, hurry them
-along into sheltered places. You say this all mularkey, not needed
+along into sheltered places. You say this all malarkey, not needed
 in a thousand years, today's headlines, somebody else's problem,
-sure that is but everybody thinks, surmises the odds it won't
+sure that is, but everybody thinks, surmises the odds it won't
 
-happen here. But you never know, never can tell,better keep those
-sneakers nearby, laced and open. Headstarts are encouraged.
+happen here. But you never know, never can tell, better keep those
+sneakers nearby, laced and open. Head starts are encouraged.
 
 — Bill`,
     tags: ['poem']
@@ -1314,7 +1249,7 @@ sneakers nearby, laced and open. Headstarts are encouraged.
     id: '2022-07-06-i-spent-this-day',
     title: 'I Spent This Day',
     date: '2022-07-06',
-    content: `Looking at clouds, not wispy one but full bodied one, ones that block
+    content: `Looking at clouds, not wispy one but full bodied ones, ones that block
 out the sun. They attach to one another, then break apart again and
 again. They move in the same direction, never fast nor slow, a steady
 pace, like a royal beat. They pay no never mind to the earth, give us
@@ -1324,13 +1259,13 @@ shelter and water. Clouds save their shadows for sun shining days.
 shelter from the burning sun and the blue sky above. Where do they
 come from, where do they go? Nobody knows and can't figure both,
 
-they appear, they go, they ask nothing in return. Sometime they
+they appear, they go, they ask nothing in return. Sometimes they
 make shapes in the sky, wild things, automobiles chasing each
-other to the finish line/ Some other times a battle between the
+other to the finish line. Some other times a battle between the
 blue and the grey, no winners here. My favorite cloud formation
 
 is a boy's camp in the woods, these boys are lined up in formation
-all saluting an imaginary flag, al right hands raised in unison.
+all saluting an imaginary flag, all right hands raised in unison.
 
 — Bill`,
     tags: ['poem']
