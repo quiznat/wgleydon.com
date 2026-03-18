@@ -1276,20 +1276,20 @@ all saluting an imaginary flag, all right hands raised in unison.
     date: '2022-07-07',
     content: `You be the queen or king, you talk and everyone jumps, nobody dies
 today, or tomorrow. It is nap time for royalty. Some lesser bodies try
-on the crowns, they do not fit. Everybody is calm. takes a snooze, while
+on the crowns, they do not fit. Everybody is calm, takes a snooze, while
 they can. Peace reigns for a while, cut up in small parts. It
 
 is a mask, a diversionary tactic, not real. Outside the palace, bad men
-and women gather with pikes and longbows, ready to topple kings and
+and women gather with pikes and longbows, ready to topple king and
 queen. It will be armed conflict with death on both sides, good men
 and women slaughtered, and hung like trophies. The royal couple
 
-awake to find their castle under siege, alarms, to arms, they shout.
-The citizens shrug of sleep, grab pikes, swords, and crossbows. They
+awake to find their castle under siege, alarms! "To arms" they shout.
+The citizens shrug off sleep, grab pikes, swords, and crossbows. They
 fight like madmen, thrusting bad men over the walls. They keep
 coming, wave after wave. Who will win, the insurgents or the keepers
 
-of the castle. Blood pours from new wounds. Noone can hear, none
+of the castle? Blood pours from new wounds. No one can hear, no one
 knows who is winning. It is blood mixed with other blood. Bloody!
 
 — Bill`,
