@@ -897,7 +897,7 @@ Bill Leydon`,
     id: '2022-05-22-at---rest',
     title: 'At Rest',
     date: '2022-05-22',
-    content: `Now is not the time for combat, not the time for down shifting words,
+    content: `Now is not the time for combat, not the time for downshifting words,
 not for time for brake checks or getting faster. Time to slow down
 and see the road, see what's ahead, see the curves, the hills,
 apply the brakes, throttle down. Speed up, cruise along. Done
@@ -913,7 +913,7 @@ our heads spin. We need a time out, a time to turn our heads
 to the clouds, take a breath, see the horizon, look on our
 
 families, count our blessings, do the sums, we are alive. Every
-day. Every way. We are alive, a mantra can't be beat.
+day. Every way. We are alive, a mantra can't be beaten.
 
 — Bill`,
     tags: ['poem']
@@ -922,17 +922,17 @@ day. Every way. We are alive, a mantra can't be beat.
     id: '2022-05-23-summer-solstice',
     title: 'Summer Solstice',
     date: '2022-05-23',
-    content: `It was a pleasant day, high blue sky, grass green, light breeze. sun
+    content: `It was a pleasant day, high blue sky, grass green, light breeze. Sun
 everywhere, a day like any other. Then the fog came in, under
 the hedges, through the fences, over the trees, every which way.
-fog whery where. It came for the sun, the clouds, it came for
+fog everywhere. It came for the sun, the clouds, it came for
 
 the day, it came to block out the day. Suddenly, the wind picked
-up, gusts of real storm, winging down small dogs and cats. all
-tossed in the air like kites, blown all to bits. The clouds become
+up, gusts of real storm, bringing down small dogs and cats. all
+tossed in the air like kites, blown all to bits. The clouds became
 intense, became black with rain, became too heavy, laden with
 
-rain, bold water falling, heavily to the ground, falling in sheets
+rain, cold water falling, heavily to the ground, falling in sheets
 of water, falling on everything, drops on boards of wood, falling
 on houses with loud slaps, falling on cement silently, falling on
 people without shelter, falling, falling. It was the end of a perfect
@@ -950,20 +950,20 @@ blue, the fog lifted, soon the wind lifted. Calm came back. Back.
     content: `At 7 this morning the sun broke through the cloud cover, the clouds moved
 reluctantly, but they had no choice, the sun was too strong.
 The battle goes on forever, sometimes the clouds win, sometimes
-the sun overpowers the clouds, other times the clouds the do not
+the sun overpowers the clouds, other times the clouds, they do not
 
-budge. This goes on forever, sun, clouds, wind casts a marble, all
-call, it a weather, all cycle around us, no matter what we can do,
-we cannot capture sun, or clouds, or wind, none are we dupe
-we wake in the day, hoping for a pleasant day, get what the dat
+budge. This goes on forever, sun, clouds, wind cast a marvel. We
+call it weather, the cycle all around us. No matter what we can do,
+we cannot capture sun, or clouds, or wind, none of us are due.
+We wake in the day, hoping for a pleasant day, get what the day
 
-provides, get the raincoats, get the rai boots, ratter down the
-windows, let the fog roll through. Weather knows no means
-it does what does, it cannot be still, it changes at the drop
-of a raindrop, it knows no rules. What we call forecast are
+provides, get the raincoats, get the rain boots, batten down the
+windows, let the fog roll through. Weather knows no means,
+it does what it does, it cannot be still, it changes at the drop
+of a raindrop, it knows no rules. What we call forecasts are
 
 nothing more than guesses, a shot in the open, a guess of
-the heavens, a roll of the dice. Sometime right, often wrong.
+the heavens, a roll of the dice. Sometimes right, often wrong.
 
 Bill Leydon`,
     tags: ['poem']
