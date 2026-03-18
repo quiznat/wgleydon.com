@@ -409,7 +409,7 @@ Bill Leydon`,
   },
   {
     id: '2022-03-24-rising',
-    title: 'I felt my soul Rising',
+    title: 'Rising',
     date: '2022-03-24',
     content: `I felt my soul Rising
 
