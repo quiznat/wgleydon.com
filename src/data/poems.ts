@@ -1400,26 +1400,22 @@ sky, with no vision, no sympathy, no brio, no vision. Clouds, clouds.
     title: 'It Seems As It Is',
     date: '2022-07-15',
     content: `The days go by as the days go by, swiftly, swiftly, swiftly. Too fast, too
-fast, we go quickly on are way. We try to slow them down,,try to pack
+fast, we go quickly on our way. We try to slow them down, try to pack
 more in them, try to increase what we can. The cars go faster, go faster,
-nobody can keep up. We are on a roller coaster in disaster
+nobody can keep up. We are on a roller coaster of disaster going
 
-up rising to the hilt. When we slow to a crawl, we feel down, feel
+up, rising to the hilt. When we slow to a crawl, we feel down, feel
 down in the dumps, feel we are not alive, feel sluggish, feel bitter
-about life. What we need to do is give ourselves a break, a breather
-one moment in time, a give of time.. We deserve a chance
+about life. What we need to do is give ourselves a break, a breather,
+one moment in time, a gift of time. We deserve a chance
 
-to smile once more, to dance, to celebrate life, enough of this hurley
+to smile once more, to dance, to celebrate life, enough of this hurly-
 burly, time to relax, take it easy. You can climb the mountain some
-other day, make president tomorrow, be a all star whenever, be
-an golf star whenever, Today you go to get with the program, be
+other day, make president tomorrow, be an all star whenever, be
+a golf star whenever. Today you got to get with the program, be
 
 you only you, be the best you can be. Do not reach for the moon,
 reach for a star instead, give it a go, give it a smash, a good go.
-
-
-Bill
-
 
 — Bill`,
     tags: ['poem']
@@ -1428,26 +1424,23 @@ Bill
     id: '2022-07-22-the-fall',
     title: 'The Fall',
     date: '2022-07-22',
-    content: `I had another fall today, not bad, not bad. I had worse ones another
-time. I was putting clothes away, in draws, separate draws, when
-I tumbled to the floor, not much damage. I damage my ego more
-than my pride. My wife parched me up, made me a poultice, and
+    content: `I had another fall today, not bad, not bad. I had worse ones other
+times. I was putting clothes away, in drawers, separate drawers, when
+I tumbled to the floor, not much damage. I damaged my ego more
+than my pride. My wife patched me up, made me a poultice, and
 
 sent me off to the battle. I remember other falls, much
 worse than this. Once I fell on my head, split open my head
 tearing my eyes open, I needed an ambulance for that one
-an open surgery, lose my vision for a while. Another time
+and open surgery, lost my vision for a while. Another time,
 
-I got a fever, a real bad one, more fever than you could believe
-where it came from no one could tell. I was frozen to bits, frozen
-where it came from, it was a total mystery to the doctors and a
-total mirage to the head of surgery. I did not lose my vision and
+I got a fever, a real bad one, more fever than you could believe.
+Where it came from, no one could tell. I was frozen to bits, frozen.
+The condition was a total mystery to the doctors, and a
+mirage to the head of surgery. I did not lose my sight, and
 
 did not lose my vision. I am lucky for this schism, and lucky to
-not lose my vision. I have some things to be grateful for. 123.
-
-Bill
-
+not lose my vision. I am grateful to see again.
 
 — Bill`,
     tags: ['poem']
@@ -1457,17 +1450,17 @@ Bill
     title: 'Nonsense',
     date: '2022-07-23',
     content: `I give you the same drivel day after day. I am tired, very tired. I am
-tired filling you up, day after day. I say stop enough is enough, stop
-the poetry. Let someone else do it, final stop, let the soft, poets we
-were doing, done and done. I am not quitting, poetry, rather poetry
+tired of filling you up, day after day. I say stop, enough is enough, stop
+the poetry. Let someone else do it, final stop. Let the soft poets take over
+what we were doing, done and done. I am not quitting poetry, rather poetry
 
-has quit on me. I will keep my hand in. But I'll keep my options open
-for the future, as can I must. I see a healthy return to an even
-return to competitive poetry, exactly when Ricky had it. Recall
+has quit on me. I will keep my hand in it. But I'll keep my options open
+for the future, as I must. I want to see a healthy return to competitive poetry, 
+exactly the way it was when Ricky had it all flowing. Recall, recall
 those days of yore, when poets were poets. Every week we would
 
 produce a poem, every week, every week a poem. Of course Ricky
-was the whip, the inspiration, we have given up. We have given. Up.
+was the whip, the inspiration. We have given up. We have given. Up.
 
 — Bill`,
     tags: ['poem']
