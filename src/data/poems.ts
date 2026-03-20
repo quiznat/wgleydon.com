@@ -1469,23 +1469,23 @@ was the whip, the inspiration. We have given up. We have given. Up.
     id: '2022-07-24-neighbors',
     title: 'Neighbors',
     date: '2022-07-24',
-    content: `I have great neighbors, even better than fine. I have been here 45
-years, been here the extra given the most extra years. I have been
-the most years. Except for Helen who died recently. I remember
-Ed O'Neil, a great guy, a retired man, the man who gave me
+    content: `I have great neighbors, even better than fine. I have been here 45  
+years, been here the longest, given the most years. Except for Helen,  
+who died recently. I remember Ed O’Neil, a great guy, a retired man,  
+the man who gave me everything, almost everything.
 
-everything, almost everything. New neighbors are too many too
-demanding, They are the seemingly next door barely extras,
-so most give the resultant, every day, every one. The one
-was a fall in the back of house, I was shouting back of the
+New neighbors are too many, too demanding. They are seemingly  
+next door, but barely there, extras. So most give the resultant polite  
+but empty greeting, every day, every one. Then one time there was a  
+fall in the back of the house, I was shouting, screaming. But from inside
 
-my wife could not hear me, my neighbor heard me, he came
-quickly, got me up and on my feet. Another time Chis came to
-my rescue, lifting from behind, I did not know him. I did not know
-Chris, before this. A long time ago when I first had a stroke I had
+the house, my wife could not hear me. My neighbor heard me, he came  
+quickly, got me up and on my feet. Another time Chris came to my  
+rescue, lifting me from behind, I did not know him. I did not know  
+Chris before this. A long time ago, when I first had a stroke, I had
 
-a fall in front of my house. The neighbor, a woman assisted by a man
-driving by. They got me up, on my feet. They became my friends.
+a fall in front of my house. A neighbor, a woman assisted by a man  
+driving by, got me up on my feet. They became my friends.
 
 — Bill`,
     tags: ['poem']
@@ -1494,23 +1494,23 @@ driving by. They got me up, on my feet. They became my friends.
     id: '2022-07-25-the-universe-as-i-see-it',
     title: 'The Universe As I See It',
     date: '2022-07-25',
-    content: `Forget the science, I am taking the short course, my data for the
-brilliant, my some excellent poetry status. Let start with the sky, the
-sky today is gorgeous, ever time I see it comes icy blue, with streak
+    content: `Forget the science, I am giving the short course, my data for the
+brilliant, my somewhat excellent poetry status. Let's start with the sky, the
+sky today is gorgeous, ever time I see, it comes icy blue, with streaks
 of white. Next comes the wispy clouds, giving the sky a soft languor,
 
 ready for each day. Next comes the temperature, a day without a cloud
-delivers bonafide golds. I can sit under the calm day after day, soft
-climate, given today, today after day. Next comes hurricanes. we
-expect these a couples times a year, very storms, we give a raging
+delivers bonafide gold. I can sit under the calm day after day, soft
+climate, given today, day after day. Next comes hurricanes. We
+expect these a couple times a year, very bad storms, we give it a rating
 
-storm, a vicious storm. Next comes soaking rain, we not get much of
-this. We really on umbrellas. We have a very debt rabid wind, very
-more than Chicago,,the test case. W have a mild climate, a very
+storms, vicious storms. Next comes soaking rain, we don't want much of
+this. We rely on umbrellas. We have a very debilitating wind, much
+more than Chicago, the test case. We have a mild climate, a very
 good time, a very good time. I cannot remember a day we have
 
 to capture our trees, let our forests burn. We have clean water, better
-than average ozone levels. And we can breathe the air. We're ok ok.
+than average ozone levels. And we can breathe the air. We're ok, ok.
 
 — Bill`,
     tags: ['poem']
@@ -1519,23 +1519,23 @@ than average ozone levels. And we can breathe the air. We're ok ok.
     id: '2022-07-27-not-really-a-poem',
     title: 'Not Really A Poem',
     date: '2022-07-27',
-    content: `A summons to you, a welcome aboard, try this writing, a poem,
-than silence. Pick up those pens, do something creative, do, do, the
-poetry trick again. It is not hard, some would call it easy. Give it try,
-why not start now. I will give you a head start, moon over Miami, one
+    content: `A summons to you, a welcome aboard. Try this: writing a poem,
+then silence. Pick up those pens, do something creative. Do, do the
+poetry trick again. It is not hard, some would call it easy. Give it a try.
+Why not start now? I will give you a head start, moon over Miami, one
 
 day at a time, give me a sonnet on this. You will come up with a
 better subject. How about the dejected lovers on the verge of
-suicide, in swimming not no how to swim. Pick a subject, any
+suicide, in swimming, not knowing how to swim. Pick a subject, any
 one will do, the political hack, back from the convention, defeat
 
 written on his face. Now there's a poem. Or the last diary, kept
 by the lover who did not want to be a boy. That is a steal from
-Bob Dylan, the master and I bow to him. How about an Astronaut
+Bob Dylan, the master, and I bow to him. How about an astronaut
 poem, the loneliness of space travel, looking lost in space. Pick
 
-your subject, Do something. Get going, hurry up. time is passing
-you by. Place one word on the page, one word on the page. Do It.
+your subject. Do something. Get going, hurry up. Time is passing
+you by. Place one word on the page, one word on the page. Do it.
 
 — Bill`,
     tags: ['poem']
@@ -1544,22 +1544,22 @@ you by. Place one word on the page, one word on the page. Do It.
     id: '2022-07-31-the-fire',
     title: 'The Fire',
     date: '2022-07-31',
-    content: `Burning me up, burning me up, tamp it down, I cannot live like this
-any more. I let the jack out of the box, let the contents hit me in the
-face. It was the extreme, a poetic maelstrom, it would not let me be.
+    content: `Burning me up, burning me up, tamp it down, I cannot live like this  
+any more. I let the jack out of the box, let the contents hit me in the  
+face. It was the extreme, a poetic maelstrom, it would not let me be.  
 I am hurting all over, my brain will not stop, a poem escapes each
 
-time I do the sums. I cannot write a straight sentence before it comes
-out the poesy, I am sick of it, what rubbish, every line begins fairly
-strait, then the poetry creeps in. I am tired, tired of sounding like
-god's gift to poet's heaven, I am not that good, not nearly so, I am
+time I do the sums. I cannot write a straight sentence before it comes  
+out the poesy, I am sick of it, what rubbish, every line begins fairly  
+straight, then the poetry creeps in. I am tired, tired of sounding like  
+God’s gift to poets’ heaven, I am not that good, not nearly so, I am
 
-a mediocre poet, a craft man beside, no better than you or you, a 
-good poet in the best of times, a lousy one on the weekdays. I
-stink when I have a deadline, or have a special occasion. I have
-an ego, a big one at that. But I am a sucker for any else's stuff.
+a mediocre poet, a craftsman besides, no better than you or you, a  
+good poet in the best of times, a lousy one on the weekdays. I  
+stink when I have a deadline, or have a special occasion. I have  
+an ego, a big one at that. But I am a sucker for anyone else’s stuff.
 
-I must admit I crib other poets poems. I have been doing this'
+I must admit I crib other poets’ poems. I have been doing this  
 forever and a day, there I have said it. Crucify me to death.
 
 — Bill`,
@@ -1569,23 +1569,23 @@ forever and a day, there I have said it. Crucify me to death.
     id: '2022-08-01-prisoner-of-the-past',
     title: 'Prisoner of the Past',
     date: '2022-08-01',
-    content: `I am 8, seeing my Mother cart away, in a black sedan, with Dr. Murphy, my
-Father and a driver. They drive to a mental hospital,
-where she stays for 20 years. I lost the love I had, I had, I had.
+    content: `I am 8, seeing my Mother carted away, in a black sedan, with Dr. Murphy,  
+my Father and a driver. They drive to a mental hospital,  
+where she stays for 20 years. I lost the love I had, I had, I had.  
 It changed me forever. I saw the world as a dangerous place.
 
-I pulled the cloak of normality around my self, practiced being
-a good boy. I came to her side, every chance I could get. It made
-me weaker, strangely weaker, Her tears would never lessen. I
+I pulled the cloak of normality around myself, practiced being  
+a good boy. I came to her side, every chance I could get. It made  
+me weaker, strangely weaker. Her tears would never lessen. I  
 stopped visiting her, left her to the orderlies, to the matrons. I
 
-saw her infrequently after that, a sagging women with big eyes,
-smeared mascara, too much lipstick, a tiny woman. Not more
-than a dozen times is all. Before her death and funeral, before
-she left me for good. I remember that day till I die, no clouds
+saw her infrequently after that, a sagging woman with big eyes,  
+smeared mascara, too much lipstick, a tiny woman. Not more  
+than a dozen times is all. Before her death and funeral, before  
+she left me for good. I remember that day till I die, no clouds,
 
-blue sky, not a chance of rain, I was for a closed casket. hoping
-to end my love affair with my Mother. Wiser heads prevailed.
+blue sky, not a chance of rain. I wished for a closed casket,  
+hoping to end my love affair with my Mother. Wiser heads prevailed.
 
 — Bill`,
     tags: ['poem']
