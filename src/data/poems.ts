@@ -1644,22 +1644,23 @@ as a hawk, a brave soldier, place him up high in their feathers.
     id: '2022-08-31-autumn-is-gone',
     title: 'Autumn Is Gone',
     date: '2022-08-31',
-    content: `Winter is not far away, there is a chill in the air, an extra blanket for
-the bed. The trees have not shed their leaves, not yet, not for some
-time. The birds keep warm flying hither and yon. Sparrows keep
-together, warming each other. Robins and bluejays fly south. Squirrels
+    content: `Winter is not far away, there is a chill in the air, an extra blanket for  
+the bed. The trees have not shed their leaves, not yet, not for some  
+time. The birds keep warm flying hither and yon. Sparrows keep  
+together, warming each other. Robins and blue jays fly south. Squirrels
 
-grow another coat, tough it out for the winter. The flies die hard, buried
-in tiny graves, no one to say a prayer. The fences are all bare, nobody
-sits outside any more, the sun goes in too quickly. The grass dies
-green and brown, roses fall to the grass, waiting til next year. People
+grow another coat, tough it out for the winter. The flies die hard, buried  
+in tiny graves, no one to say a prayer. The fences are all bare, nobody  
+sits outside anymore, the sun goes in too quickly. The grass dies  
+green and brown, roses fall to the grass, waiting till next year. People
 
-worry that the seasons may not some again, skip Fall into Summer
-it happened once before, the ancients tell when it happened. The
-fish swam backwards, the bees committed suicide in dive bombing
+worry that the seasons may not come again, skip Fall into Summer,  
+it happened once before, the ancients tell us when it happened. The  
+fish swam backwards, the bees committed suicide in dive bombing  
 precision. Some people gave up the ghost, what is the use, shrugging their
-broad shoulders. Confusion sets, despair, the clocks
-are askew, nothing makes sense anymore. Give it up.
+
+broad shoulders. Confusion sets in, despair, the clocks are askew,  
+nothing makes sense anymore. Give it up.
 
 — Bill`,
     tags: ['poem']
@@ -1668,74 +1669,74 @@ are askew, nothing makes sense anymore. Give it up.
     id: '2022-09-01-latter-day-sinners',
     title: 'Latter Day Sinners',
     date: '2022-09-01',
-    content: `Once there was a way to tell the saints from the bad persons, no longer,
-with the upside down world. Take the race track, buy plenty
-of tickets, voila you win. In business you wait for the boss to
-kick off, you get the job. It easy to do,, a cinch, wait long
+    content: `Once there was a way to tell the saints from the bad persons, no longer,  
+with the upside-down world. Take the race track, buy plenty  
+of tickets, voila, you win. In business, you wait for the boss to  
+kick off, you get the job. It’s easy to do, a cinch, wait long
 
-enough the marbles become yours.. In sports if you are 6foot 6,
-you get into every play, star in a lot of games. If you find yourself
-in prison, there is plenty of ways to make moolah, easy money
-and they cannot put you in jail again. Take the butcher,with his
+enough, the marbles become yours. In sports, if you are 6 foot 6,  
+you get into every play, star in a lot of games. If you find yourself  
+in prison, there are plenty of ways to make moolah, easy money,  
+and they cannot put you in jail again. Take the butcher, with his
 
-thumb on the scale making a amal profit for him,at expense of
-the customer. Take the weeds and the politicians, who steal us
-blind, never say grace before meals. They rob us, forever,
-and pledge to the flag. vote for us, vote for me, I will make
+thumb on the scale, making a small profit for him, at the expense of  
+the customer. Take the weasels and the politicians, who steal us  
+blind, never say grace before meals. They rob us, forever,  
+and pledge to the flag. Vote for us, vote for me, I will make
 
-it better, better for your kids, better for your wife, better for me.
+it better, better for your kids, better for your wife, better for me.  
 Do not worry where the money goes, it goes and goes.
 
 — Bill`,
     tags: ['poem']
   },
   {
-    id: '2022-09-02-so-it-is-friday',
-    title: 'So It Is Friday',
+    id: '2022-09-02-friday',
+    title: 'Friday',
     date: '2022-09-02',
-    content: `So It is Friday, nothing to do, your friends are all at the beach or
-sky diving from the nearest building. Lots of stuff, none includes you,
-who minds the house. Feel sorry for yourself, kick the table
-a number of times. Play solitaire until you win, cheat a little, who's
+    content: `So it is Friday, nothing to do, your friends are all at the beach or  
+sky diving from the nearest building. Lots of stuff, none includes you,  
+who minds the house. Feel sorry for yourself, kick the table  
+a number of times. Play solitaire until you win, cheat a little, who’s
 
-watching, the king was before the ace, some tricks more. You make
-an attempt at mowing the grass in the backyard, find there's no key
-left behind. no way to start the damn thing. I retreat to the cellar
-try my hand at woodworking, which I used to be expert at.
+watching, the king before the ace, some tricks more. You make  
+an attempt at mowing the grass in the backyard, find there’s no key
+left behind, no way to start the damn thing. I retreat to the cellar,  
+try my hand at woodworking, which I used to be an expert at.
 
-Right away the blade fell off, I could not fix it, could not try. I dialed
-the handyman who was booked til next year. I recall my son said
-something about a marbles tourney, held every year. Putt up $100.00
-and easy money from a bunch of cretins. A suckeers stampede,
+Right away the blade fell off, I could not fix it, could not try. I dialed  
+the handyman who was booked till next year. I recall my son said  
+something about a marbles tourney, held every year. Put up $100.00  
+and easy money from a bunch of cretins. A sucker’s stampede,
 
-money from heaven, I was counting my winners before the game.
-One kid has a silver marble, all shiny.. He ate my wad fast..
+money from heaven, I was counting my winnings before the game.  
+One kid has a silver marble, all shiny. He ate my wad fast.
 
 — Bill`,
     tags: ['poem']
   },
   {
-    id: '2022-09-04-do-no-rush-to-the-exits-all-at-once',
-    title: 'Do No Rush To The Exits All At Once',
+    id: '2022-09-04-do-not-rush-to-the-exits-all-at-once',
+    title: 'Do Not Rush To The Exits All At Once',
     date: '2022-09-04',
-    content: `It is only Bill Leydon with another nutty poem, I swear he has
-nothing better to do all day long, First he volunteered for the
-War In Vietnam, ten years after it was over. The he joined
+    content: `It is only Bill Leydon with another nutty poem, I swear he has  
+nothing better to do all day long. First, he volunteered for the  
+War in Vietnam, ten years after it was over. Then he joined  
 the postal clerks union, he was found to be mentally unstable
-and kicked down a flight of stairs, landing in the middle of
+and kicked down a flight of stairs, landing in the middle of  
 
-Washington Street. Undaunted our hero decided to join the
-girl scouts, letting his hair grow much too, he could not hide
-his size 15 shoe. These girls were not stupid, and they tied
-him to railroad track and they never looked back. Cannot keep
+Washington Street. Undaunted, our hero decided to join  
+the Girl Scouts, letting his hair grow much too long, he could  
+not hide his size 15 shoe. These girls were not stupid, and they
+tied him to a railroad track, and they never looked back. Cannot keep  
 
-a good man down, he heard a lot of talk about sky diving, and
-it sounded like fun. So he went out to Orange MA and tried a go,
-after some instruction he climbed aboard the smallest plane
-he ever saw. Up they, up past the clouds, topping nose bleed
+a good man down, he heard a lot of talk about sky diving, and  
+it sounded like fun. So he went out to Orange MA, and gave it a go,  
+after some instruction, he climbed aboard the smallest plane
+he ever saw. Up then, up past the clouds, topping nosebleed  
 
-territory. When the lights turned red, it was time to jump, go, go
-and hero raced to the door only he left his shoot on the ground
+territory. When the lights turned red, it was time to jump, go, go,  
+and our hero raced to the door, only he left his chute on the ground.
 
 — Bill`,
     tags: ['poem']
