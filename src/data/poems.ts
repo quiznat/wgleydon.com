@@ -1299,23 +1299,23 @@ knows who is winning. It is blood mixed with other blood. Bloody!
     id: '2022-07-08-birds',
     title: 'Birds',
     date: '2022-07-08',
-    content: `Don't like other birds, they occupy the sky, feed on the same grub, but
-aren't palsy-walsy with most birds. Take the eagle, a solitary creature,
-in a class of their own, they hunt and kill their meals on the run. They
-are the class of flying, soaring far above anything flying below. Next
+    content: `Don’t like other birds, they occupy the sky, feed on the same grub, but
+aren’t palsy-walsy with most birds. Take the eagle, a solitary creature,
+in a class of their own, they hunt and kill their meals on the run. They 
+are the class of flyers, soaring far above anything flying below. Next
 
-come the hawks, all colors, all dangerous, they can kill with a swipe
-of a claw. They sometimes hunt in pairs, or in packs. They have nests
-in towering trees far above where hunters can find them. They lay
-eggs in secret, and feed them daily. Blue jays like to cry out, try to
+comes the hawk, all colors, all dangerous, they can kill with a swipe
+of a claw. They sometimes hunt in pairs or in packs. They have nests
+in towering trees, far above where hunters can find them. They lay
+eggs in secret and feed them daily. Blue jays like to cry out, try to
 
-scare smaller birds. They are husband and wife, feeding all the time,
-they are not nice, not pleasant at all. next come the crow, less said the
-better. My favorite is the red birds, with plumage to spare. They are
-regal in bearing, carrying the and all before it. Last, not least are the
+scare smaller birds. They are husband and wife, feeding all the time.
+They are not nice, not pleasant at all. Next comes the crow, the less said,
+the better. My favorite are the red birds, with plumage to spare. They are
+regal in bearing, carrying themselves and all before them. Last, not least
 
-sparrows, little fellows with thousand colors and shapes. They
-are friendly, landing on feeder, all day long. I like them just fine.
+are the sparrows, little fellows with a thousand colors and shapes. They 
+are friendly, landing on the feeder all day long. I like them just fine.
 
 — Bill`,
     tags: ['poem']
@@ -1325,19 +1325,19 @@ are friendly, landing on feeder, all day long. I like them just fine.
     title: 'Reasons for the Seasons',
     date: '2022-07-10',
     content: `The beaches are empty, the lifeguards have gone to their daily
-occupations. The clouds dominate the sky, sun burns are
+occupations. The clouds dominate the sky, sunburns are no
 longer a threat. Boys and girls change their clothes, shorts and
-t-shirts faii in a pile, replaced by long pants and sweaters. Fall
+t-shirts fall in a pile, replaced by long pants and sweaters. Fall
 
 is here, the falling leaves are the last clue needed, swirling, 
-tumbling, yellow, party red, sem-green, brown before
+tumbling, yellow, partly red, semi-green, brown before
 they hit the ground. Fall kills a lot of hopes, endless fun,
 days of pleasure, kisses on the lips, time to read the funny
 
 pages in the newspaper. People have no patience with change
-of any kind, they want to back where they came, feel good
+of any kind, they want to go back where they came, feel good
 again, not this chill in their bones. Boys and girls march back
-into overheated classrooms, gazing out the outside all the
+into overheated classrooms, gazing at the outside all the
 
 time. The evergreen trees have the last laugh, they stay the
 same all year long. They usher out summer, and await winter.
@@ -1351,16 +1351,16 @@ same all year long. They usher out summer, and await winter.
     date: '2022-07-11',
     content: `I have been an assistant director of a public library, Hingham MA.
 Before this I was the intern at the Police Academy in the North
-end of Boston. I was the librarian in charge of a law collection. I
+End of Boston. I was the librarian in charge of a law collection. I
 enjoyed this job, I made a lot of friends and learned a great deal.
 
 There were other jobs, other people, some good, some not so
 good. The worst job I had was the first, with Glough and Shacklet
-a drugstore on the corner of Charles and Hanover St., a high 
+a drugstore on the corner of Charles and Hanover St., a high
 class outfit. I worked the soda fountain and delivered drugs to
 
-Beacon Hill. I was fired and then rehired on a false charge of stealing. I
-was 13 at the time. After high school I got a job with
+Beacon Hill. I was fired and then rehired on a false charge of stealing.
+I was 13 at the time. After high school I got a job with
 Boston Metal Products, a firm in East Cambridge. This was sheet
 metal work, dirty and sometimes risky. I made friends, moved on.
 
@@ -1376,16 +1376,16 @@ Fair. I did most everything, from sales inside and outside.
     date: '2022-07-14',
     content: `Big fluffy white and lofty beaming stratospheric clouds. White on top,
 gray on the bottom, billowing fast, moving slow in the air, colliding
-into each other, making bigger giant clouds. A all backdrop for some
+into each other, making bigger giant clouds. A tall backdrop for some
 spectacular sights, a sight to behold dear and forever. I do some
 
 superior work now and then, go overboard, but this I cannot go too
 far, most people don't notice the sky at all, don't give a fig, don't
 notice it unless it is raining or snowing. They miss the beauty of
-the every day sky with its doppler skies. I know the days go by
+the everyday sky with their Doppler skies. I know the days go by
 
 with days full of gray, full of nothing clouds, nothing clouds, droopy
-days full of tain, full of fogg, we live with those for the great days
+days full of rain, full of fog, we live with those for the great days
 full of promise. Clouds, Clouds, clouds, blessed clouds. What
 day is a day without clouds, what season can be without clouds.
 
@@ -1467,7 +1467,7 @@ return to competitive poetry, exactly when Ricky had it. Recall
 those days of yore, when poets were poets. Every week we would
 
 produce a poem, every week, every week a poem. Of course Ricky
-was the whip, the inspiration, we have given up. We have given. Up
+was the whip, the inspiration, we have given up. We have given. Up.
 
 — Bill`,
     tags: ['poem']
@@ -1643,18 +1643,6 @@ except brave sparrow, still hungry, the hawksbe damned. Hawks
 
 have a code, love courage in any form, they welcome the sparrow
 as a hawk, a brave soldier, place him up high in their feathers.
-
-— Bill`,
-    tags: ['poem']
-  },
-  {
-    id: '2022-08-30-untitled',
-    title: 'Untitled',
-    date: '2022-08-30',
-    content: `One two buckle your shoe. Three climb up a tree. Four let the
-flour hit the floor. Six and sevens swells the scores. Eight and nine
-I cannot go much higher, Ten, I can't go much more. I have
-run out of rhymes, boohoo, I only got to the 8th grade.
 
 — Bill`,
     tags: ['poem']
