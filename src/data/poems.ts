@@ -1594,35 +1594,35 @@ hoping to end my love affair with my Mother. Wiser heads prevailed.
     id: '2022-08-08-chuck',
     title: 'Chuck',
     date: '2022-08-08',
-    content: `Is a very nice man, expired now but lives on the hearts of his family and
-friends. Lives on and ups where he does the most good. He strode
-the earth like a colossus, but a quiet man, soft steps, large prints,
+    content: `Is a very nice man, expired now, but lives on in the hearts of his family
+and friends. Lives on, and up there he does the most good. He strode
+the earth like a colossus, but a quiet man, soft steps, large footprints,
 ample time to get home. Chuck knew where he was going, never
 
-doubted what was needed,,never hesitated, never knew the best
+doubted what was needed, never hesitated, always knew the best
 way to proceed. He was smart, smarter than most, he was a Ford
-Engineer, the best of the back, man who played it home for lunch.
-who got it over and back to the job every time. It was the man who
+engineer, the best of the batch. A man who made it home for lunch.
+Who got it done and back to the job, every time. He was a man who
 
-had time for everyone, especially kids, he took time for kids,
+had time for everyone. Especially kids, he took time for kids,
 little kids, big kids, grown kids. Me too, he never forgot me, never
-once did he forget my birthday or special day, I do not want to
+once did he forget my birthday or special day. I do not want to
 make a saint out of Chuck, but he may come straight from heaven.
 
-I forget Mary, my sister, Chuck's wife, the couple from heaven, they
-never fought, always together, always loving. From 1 and 1. Always.
+I forgot Mary, my sister, Chuck's wife, the couple from heaven, they
+never fought, always together, always loving. From one and one. Always.
 
 — Bill`,
     tags: ['poem']
   },
   {
     id: '2022-08-12-i-wish-i-could-fly',
-    title: 'I wish, I could fly',
+    title: 'I wish I could fly',
     date: '2022-08-12',
-    content: `in the sky, flap my wings and be high above the crass earth. like
+    content: `In the sky, flap my wings and be high above the crass earth. Like
 the planes that circle my house. I would be a sparrow with other
-sparrows swooping down on bird feeders, enjoying the day, saying
-fun to the clouds, living, the life of a bird. Then the blue jays come
+sparrows swooping down on bird feeders, enjoying the day, singing
+fun into the clouds, living, the life of a bird. Then the blue jays come
 
 and spoil everything, their Kaw Kaw drives us mad, they eat
 like pigs, have no manners, do not wipe their claws between
@@ -1630,9 +1630,9 @@ portions. Suddenly, the red cardinals arrive, scaring the blue
 jays away. The red birds have no bitch with the sparrows. They
 
 eat alongside them. Late in the day a pair of hawks circle above,
-eyeing easy feed, and no opposition. They put their wings into
-high speed and dive, the other her the dive out of the way, all
-except brave sparrow, still hungry, the hawksbe damned. Hawks
+eyeing easy feed and no opposition. They put their wings into
+high speed and dive, the other birds then dive out of the way, all
+except the brave sparrow, still hungry, the hawks be damned. Hawks
 
 have a code, love courage in any form, they welcome the sparrow
 as a hawk, a brave soldier, place him up high in their feathers.
