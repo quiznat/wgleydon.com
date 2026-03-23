@@ -2,7 +2,6 @@
 
 import { motion } from 'framer-motion'
 import { photos, eras, type Photo } from '@/data/photos'
-import { Navigation } from '@/components/Navigation'
 import Link from 'next/link'
 
 // Deterministic pseudo-random from photo index for consistent rotations
@@ -106,7 +105,6 @@ export default function FamilyAlbum() {
         }}
       />
 
-      <Navigation />
 
       {/* Album cover */}
       <div className="relative z-10 pt-32 pb-20 px-4">

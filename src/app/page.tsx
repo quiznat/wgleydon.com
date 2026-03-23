@@ -188,9 +188,29 @@ export default function Home() {
               We are in sorrow for their passing, but know we will see them shortly; we will triumph over death and be happy once again."
             </blockquote>
           </motion.div>
+
+          <motion.div
+            initial={{ opacity: 0, y: 16 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.8, delay: 0.2 }}
+            className="mt-16 text-center"
+          >
+            <div className="flex items-center justify-center gap-4 mb-6">
+              <div className="w-12 h-px bg-accent-dark/30" />
+              <span className="text-accent-dark/50 text-sm">&#10045;</span>
+              <div className="w-12 h-px bg-accent-dark/30" />
+            </div>
+            <a
+              href="/family-album"
+              className="inline-block font-serif text-lg italic text-ink-light hover:text-ink-dark transition-colors duration-300 border-b border-accent/40 pb-1"
+            >
+              View the Family Album
+            </a>
+          </motion.div>
         </div>
       </section>
-      
+
       {/* Footer */}
       <footer className="py-12 px-4 bg-ink-dark text-paper-100 relative z-10">
         <div className="max-w-4xl mx-auto text-center">
