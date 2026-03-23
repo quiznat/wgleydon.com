@@ -38,7 +38,7 @@ function PhotoPrint({ photo, index }: { photo: Photo; index: number }) {
             src={photo.src}
             alt={photo.caption}
             loading="lazy"
-            className="w-full aspect-[4/3] object-cover sepia-[0.15] contrast-[1.05] brightness-[0.98]"
+            className="w-full h-auto sepia-[0.15] contrast-[1.05] brightness-[0.98]"
           />
         </div>
         {/* Caption area — like handwriting below a print */}
