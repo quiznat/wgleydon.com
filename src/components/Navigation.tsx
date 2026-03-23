@@ -16,8 +16,9 @@ export function Navigation() {
   }, [])
   
   const navLinks = [
-    { href: '#poems', label: 'Manuscript' },
-    { href: '#about', label: 'About' },
+    { href: '/#poems', label: 'Manuscript' },
+    { href: '/family-album', label: 'Family Album' },
+    { href: '/#about', label: 'About' },
   ]
   
   return (
