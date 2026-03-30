@@ -21,7 +21,7 @@ The site exports to `dist/` (not `.next/`). Deploy by copying `dist/` to the hos
 Single-page site (`src/app/page.tsx`) with two main components:
 
 - **`ManuscriptViewer`** — the poem browser. Renders the full collection with navigation, search, and reading view.
-- **`Hero`** — animated landing section (Framer Motion, Cormorant Garamond serif)
+- **`Hero`** — animated landing section (Framer Motion, EB Garamond serif)
 
 ### Poem data
 
@@ -35,7 +35,7 @@ Custom theme in `tailwind.config.ts`:
 - `paper-100`, `paper-200` — warm off-white backgrounds
 - `ink-dark`, `ink`, `ink-light` — text hierarchy
 - `accent` — gold/sepia highlight color
-- `font-serif` → Cormorant Garamond, `font-sans` → Inter
+- `font-serif` → EB Garamond, `font-sans` → Inter
 
 ## Relationship to life-goals repo
 
