@@ -1,9 +1,9 @@
 'use client'
 
-import { Fragment } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { useState, useCallback } from 'react'
 import { Poem } from '@/data/poems'
+import { PoemLayout } from './PoemLayout'
 
 interface ManuscriptViewerProps {
   poems: Poem[]
@@ -56,9 +56,6 @@ export function ManuscriptViewer({ poems }: ManuscriptViewerProps) {
       },
     }),
   }
-
-  // Split poem content into stanzas, each stanza into lines
-  const stanzas = currentPoem.content.split('\n\n')
 
   return (
     <div className="relative">
@@ -116,21 +113,13 @@ export function ManuscriptViewer({ poems }: ManuscriptViewerProps) {
           {/* Thin rule */}
           <div className="w-16 h-px bg-accent mb-12" />
 
-          {/* Poem body — <p> per stanza, <br> per line.
-              Literary web standard (Ninth Letter, Poetry Foundation).
-              Text flows naturally: fits on desktop, wraps gracefully on mobile. */}
-          <div className="font-serif text-base md:text-lg text-ink-dark leading-loose">
-            {stanzas.map((stanza, si) => (
-              <p key={si} className="mb-8 last:mb-0">
-                {stanza.split('\n').map((line, li, arr) => (
-                  <Fragment key={li}>
-                    {line}
-                    {li < arr.length - 1 && <br />}
-                  </Fragment>
-                ))}
-              </p>
-            ))}
-          </div>
+          {/* Poem body — Pretext measures each line and scales font
+              so the longest line fits the container. Stanza breaks and
+              line breaks are preserved exactly as Bill wrote them. */}
+          <PoemLayout
+            content={currentPoem.content}
+            className="font-serif text-ink-dark"
+          />
         </motion.article>
       </AnimatePresence>
 
